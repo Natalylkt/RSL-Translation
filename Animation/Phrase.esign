@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE signedtext SYSTEM "http://www.sign-lang.uni-hamburg.de/eSIGN/SignedText.dtd">
+<signedtext database="EditorData.rbd" language="sgn-gb" spokenlanguage="en" title="New Document"><utterance spoken=""><sign gloss="$PROD:рада" signid=""><mouth></mouth><src editable="false"></src><gol editable="false"></gol><loc editable="false"></loc><hand editable="false"></hand><limbs></limbs><facialexpression></facialexpression><hamnosys manual="true">hamsymmlr,hamflathand,hamparbegin,hamextfingerol,hampalml,hamplus,hamextfingeror,hampalmr,hamparend,hamtouch,hamchest,hamparbegin,hamcircler,hamclocku,hamplus,hamcircler,hamclockd,hamparend,hamrepeatcontinue</hamnosys><signdescription></signdescription>
+		</sign><sign gloss="$PROD:вам" signid=""><mouth></mouth><src editable="false"></src><gol editable="false"></gol><loc editable="false"></loc><hand editable="false"></hand><limbs></limbs><facialexpression></facialexpression><hamnosys manual="true">hamflathand,hamfingerstraightmod,hamextfingero,hampalmu,hamshoulders</hamnosys><signdescription></signdescription>
+		</sign><sign gloss="$PROD:помочь" signid=""><mouth></mouth><src editable="false"></src><gol editable="false"></gol><loc editable="false"></loc><hand editable="false"></hand><limbs></limbs><facialexpression></facialexpression><hamnosys manual="true">hamsymmlr,hamflathand,hamthumboutmod,hamparbegin,hamextfingerol,hampalml,hamplus,hamextfingero,hampalmr,hamparend,hamthumbside,hamtouch</hamnosys><signdescription></signdescription>
+		</sign>
+	</utterance>
+</signedtext>
